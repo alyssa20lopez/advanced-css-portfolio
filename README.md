@@ -12,4 +12,3 @@ This website is my coding boot camp profile. It is a page that features what I a
 ## Visuals
 ![Profile Image](./assets/portfolio-photo.png)
 ![Horizon Refactor Project](./assets/portfolio-work-image1.png)
-![Resume](./assets/portfolio-resume.png)
