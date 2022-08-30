@@ -6,9 +6,9 @@
 2. [Visuals](#visuals)
 
 ## Description
-This website is my coding boot camp profile. It is a page that features what I am about, my work, contact information, and resume.
+This website is a portfolio of my work as a coding bootcamp student. It features who I am, the work I have completed, contact information, and resume. In addition, this project feature my knowledge of flexbox, media queries, and CSS variables.
+
 [Link to live site](https://alyssa20lopez.github.io/advanced-css-portfolio/)
 
 ## Visuals
-![Profile Image](./assets/portfolio-photo.png)
-![Horizon Refactor Project](./assets/portfolio-work-image1.png)
+![Preview of Website](./assets/advanced-css-portfolio-screenshot.png)
